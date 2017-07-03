@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/niuoo/.vim/bundle/Vundle.vim'
+let g:netrw_dirhist_2='/Users/niuoo/.vim/bundle/vim-ansible-yaml'
+let g:netrw_dirhist_3='/Users/niuoo/sirius'
+let g:netrw_dirhist_4='/Users/niuoo/.vimundo'
+let g:netrw_dirhist_5='/Users/niuoo/.vim'
+let g:netrw_dirhist_6='/Users/niuoo/.vim/bundle/vim-colors-solarized/colors'
+let g:netrw_dirhist_7='/Users/alanyang/go/src/github.com/xyalan/migateway-api/rest-api'
